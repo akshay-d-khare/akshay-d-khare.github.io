@@ -21,4 +21,4 @@ Prior to this, I graduated from [IIT Madras](https://www.iitm.ac.in/) in July 20
 
 If you have any questions or opportunities for collabotation, please feel free to send me an email!
 
-Email: akshaykhare[at]alumni[dot]iitm[dot]ac[dot]in
+Email: akshaykhare [at] alumni [dot] iitm [dot] ac [dot] in
