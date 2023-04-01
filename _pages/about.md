@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Hi! Welcome to my homepage.
+subtitle: Hi! Welcome to my personal homepage.
 
 profile:
   align: right
